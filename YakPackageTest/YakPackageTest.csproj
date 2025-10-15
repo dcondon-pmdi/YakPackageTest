@@ -16,10 +16,13 @@
   
   <PropertyGroup>
     <!-- Specifies information for Assembly and Yak -->
-    <Version>1.0</Version>
+    <Version>1.0.0</Version>
     <Title>YakPackageTest</Title>
     <Company>YakPackageTest Authors</Company>
     <Description>Description of YakPackageTest</Description>
+    <Authors>MyCompany</Authors>
+    <Product>YakPackageTest</Product>
+    <Url>mywebsite.com</Url>
   </PropertyGroup>
   
   <ItemGroup>
